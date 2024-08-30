@@ -8,7 +8,7 @@ Given a set of points represented on the number line, a single, distinct point c
 1. the distance between two integers is greater than one, and
 2. the number of points is not greater than 2 because then it would be impossible to place an integer between three points
 
-## [🔗File](2004A.cpp)
+## [🔗Solution File](solution.cpp)
 
 ## Code Snippet 
 ```cpp
