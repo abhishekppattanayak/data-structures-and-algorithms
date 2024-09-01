@@ -1,3 +1,5 @@
+// 1996B Scale
+
 #include <iostream>
 #include <vector>
 using namespace std;
