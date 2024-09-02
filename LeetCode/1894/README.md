@@ -1,4 +1,4 @@
-# 2022 Find the Student that Will Replace the Chalk
+# 1894 Find the Student that Will Replace the Chalk
 
 You can checkout the problem statemment [here](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/).
 
