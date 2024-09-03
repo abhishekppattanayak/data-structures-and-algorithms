@@ -1,4 +1,4 @@
-// LeetCode 1984 Finding Student that will Replace the chalk
+// LeetCode 1894 Finding Student that will Replace the chalk
 
 class Solution {
 public:
